@@ -1,0 +1,21 @@
+.hero {
+  background-image: url("../../../../public/images/banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 85vh;
+  width: 100%;
+}
+.hero .container {
+  padding-top: 15%;
+}
+.hero h1 {
+  color: rgb(79, 78, 78);
+  font-size: 60px;
+}
+.hero p {
+  color: rgb(128, 128, 128);
+  opacity: 0.8;
+}
+
+
